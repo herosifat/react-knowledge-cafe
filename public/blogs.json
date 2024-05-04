@@ -1,0 +1,48 @@
+[
+    {
+      "id": "123456789",
+      "title": "The Enigma of Epsilon",
+      "author": "Aurora Blackwood",
+      "author_img": "[Link to Author Image]",
+      "posted_date": "May 3, 2024",
+      "reading_time": 10,
+      "hashtags": ["#Mystery", "#Thriller", "#Puzzle"]
+    },
+    {
+      "id": "987654321",
+      "title": "Chronicles of Celestia: Dawn of Shadows",
+      "author": "Orion Nightshade",
+      "author_img": "[Link to Author Image]",
+      "posted_date": "April 29, 2024",
+      "reading_time": 15,
+      "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+      "id": "567890123",
+      "title": "Beyond the Horizon: Exploring Uncharted Realms",
+      "author": "Selene Stardust",
+      "author_img": "[Link to Author Image]",
+      "posted_date": "April 25, 2024",
+      "reading_time": 20,
+      "hashtags": ["#Exploration", "#Discovery", "#Adventure"]
+    },
+    {
+      "id": "321098765",
+      "title": "Echoes of Eternity: A Journey Through Time",
+      "author": "Atlas Evergreen",
+      "author_img": "[Link to Author Image]",
+      "posted_date": "April 30, 2024",
+      "reading_time": 25,
+      "hashtags": ["#TimeTravel", "#History", "#Philosophy"]
+    },
+    {
+      "id": "135792468",
+      "title": "Whispers in the Dark: Secrets of the Moonlit Forest",
+      "author": "Luna Shadowbrook",
+      "author_img": "[Link to Author Image]",
+      "posted_date": "May 1, 2024",
+      "reading_time": 18,
+      "hashtags": ["#Mystery", "#Fantasy", "#Nature"]
+    }
+  ]
+  
